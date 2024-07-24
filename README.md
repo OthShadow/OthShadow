@@ -1,4 +1,4 @@
-# Welcome to Othmane's CyberSecurity Portfolio 🌐🔒
+# Welcome to OthShadow Portfolio 🌐🔒
 
 ## About Me
 👋 **Hello!** I'm Othmane, a passionate **CyberSecurity student** with a specialization in **Cloud Computing** and **DevSecOps**. I am dedicated to developing secure, scalable, and efficient solutions to protect digital assets in the cloud.
